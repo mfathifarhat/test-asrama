@@ -1,0 +1,1 @@
+import{D as r,q as c,c as l,o as p,j as u,n as i,H as s}from"./CKKGcLlz.js";const m={base:""},g={__name:"ProseStrong",props:{class:{type:null,required:!1}},setup(e){const o=e,a=r(),t=c(()=>s({extend:s(m),...a.ui?.prose?.strong||{}}));return(n,f)=>(p(),l("strong",{class:i(t.value({class:o.class}))},[u(n.$slots,"default")],2))}};export{g as default};

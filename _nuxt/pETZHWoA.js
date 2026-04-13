@@ -1,0 +1,1 @@
+import{c as l,o as r,a as t,n as a}from"./CKKGcLlz.js";const p={__name:"IconsIconNext",props:{class:String},setup(o){const e=o;return(n,s)=>(r(),l("svg",{xmlns:"http://www.w3.org/2000/svg",class:a(e.class),viewBox:"0 0 24 24"},[...s[0]||(s[0]=[t("path",{fill:"currentColor",d:"M4 11v2h12l-5.5 5.5l1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5L16 11z"},null,-1)])],2))}};export{p as _};
